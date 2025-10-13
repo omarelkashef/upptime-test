@@ -14,7 +14,6 @@
 # * More by Anand Chowdhary: https://anandchowdhary.com
 
 
-
 name: Setup CI
 on:
   push:
