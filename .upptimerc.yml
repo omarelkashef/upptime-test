@@ -8,8 +8,8 @@ sites:
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: خاص
-    slug: my-github
     url: https://github.com/omarelkashef
+    slug: my-github
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
