@@ -8,7 +8,7 @@ sites:
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: خاص
-    slug: personal-github
+    slug: my-github
     url: https://github.com/omarelkashef
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
